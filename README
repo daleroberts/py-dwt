@@ -1,0 +1,3 @@
+Simple ctypes wrapper around the GSL wavelet functions.
+
+Author: Dale Roberts <dale.o.roberts@gmail.com>
